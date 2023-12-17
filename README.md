@@ -8,3 +8,5 @@ Introduzca:
    r, tipo de interés anual
 Salida
    interés simple = p*t*r
+   
+2023 XYZ, Inc.
